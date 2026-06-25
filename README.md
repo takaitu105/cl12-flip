@@ -23,13 +23,13 @@ img_filp.save(output_image)
 ```
 
 ## 3.使い方
-3.1実行例
-_コマンドラインフォーマット
+3.1 実行例
+_ コマンドラインフォーマット
 ```python
 python3 flip.py<input_image_path> <output_image_path>
 ```
-_利用例
+_ 利用例
 ```python
 python3 flip.py input.jpeg output.jpeg
-3.2出力結果
-_以下のように入力画像の左右反転画像が出力されます。
+3.2 出力結果
+_ 以下のように入力画像の左右反転画像が出力されます。
