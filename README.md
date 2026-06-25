@@ -31,5 +31,6 @@ python3 flip.py<input_image_path> <output_image_path>
 - 利用例
 ```python
 python3 flip.py input.jpeg output.jpeg
+```
 3.2 出力結果
 - 以下のように入力画像の左右反転画像が出力されます。
