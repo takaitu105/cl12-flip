@@ -28,8 +28,8 @@ img_filp.save(output_image)
 ```python
 python3 flip.py<input_image_path> <output_image_path>
 ```
-_ 利用例
+- 利用例
 ```python
 python3 flip.py input.jpeg output.jpeg
 3.2 出力結果
-_ 以下のように入力画像の左右反転画像が出力されます。
+- 以下のように入力画像の左右反転画像が出力されます。
